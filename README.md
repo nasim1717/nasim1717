@@ -14,7 +14,7 @@ I am a web developer, my profession is to think deeply about real life problems 
 ✔️ Bootstrap <br/>
 ✔️ C <br/>
 ✔️ C++ 
-
+<hr>
  - 🌱 I’m currently learning Backend 
  - 💬 Ask me about Web Developer 
 
