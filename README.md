@@ -4,7 +4,8 @@ Hi, I'm Md Nasim Reza
 <h3>About Me</h3>
 I am a web developer, my profession is to think deeply about real life problems in the world of programming. The best solution is to convert to coding and always try to write clean code. I also like to travel to different places in my free time.
 
-<hr style="border: 0; height: 0.2px; background-color: #000;">
+<div style="border-top: 1px solid black;"></div>
+
 
 <h3 align="left">👨‍💻 Skills & Experiance:</h3>
 ✔️ JavaScript <br/>
