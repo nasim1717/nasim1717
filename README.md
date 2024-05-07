@@ -5,14 +5,14 @@ I am a web developer, my profession is to think deeply about real life problems 
 
 
 <h3 align="left">👨‍💻 Skills & Experiance:</h3>
-✔️ JavaScript
-✔️ React
-✔️ Redux
-✔️ Next JS
-✔️ Tailwind css
-✔️ Bootstrap
-✔️ C
-✔️ C++
+✔️ JavaScript <br/>
+✔️ React <br/>
+✔️ Redux <br/>
+✔️ Next JS <br/>
+✔️ Tailwind css <br/>
+✔️ Bootstrap <br/>
+✔️ C <br/>
+✔️ C++ <br/>
 
 
 
