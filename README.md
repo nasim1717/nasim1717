@@ -1,3 +1,11 @@
+<style>
+hr {
+  border: none;
+  border-top: 1px solid #000; /* You can adjust the color code as needed */
+}
+</style>
+
+
 Hi, I'm Md Nasim Reza
 ![](https://media.licdn.com/dms/image/D5616AQHU-3Ox97zCEA/profile-displaybackgroundimage-shrink_350_1400/0/1714848163956?e=1720656000&v=beta&t=li7xVHUsis_g7zdT-vuo0dLBeCt0-f596qmKXjfva8w)
 
